@@ -1,4 +1,4 @@
-<!doctype html>
+WW2<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -168,7 +168,7 @@
         <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
     <div class="btncon">
 
-        <a href="addto.html" class="btn btn-info" id="cbtkd"><span>Details</span></a>
+        <a href="addto.html" class="btn btn-info" id="cbt"><span>Details</span></a>
         <a href="addto.html" class="btn btn-outline-success " id="cbtb"><span>Buy</span></a>
     </div>
 </div>
