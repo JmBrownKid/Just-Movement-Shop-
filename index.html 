@@ -1,4 +1,4 @@
-WW2<!doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -69,7 +69,7 @@ WW2<!doctype html>
                     <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
                 <div class="btncon">
                     <a href="about.html" class="btn btn-info"  id="cbt" ><span>Details</span></a>
-                    <a href="addto.html" class="btn btn-outline-success" id="cbtb"><span>Buy</span></a>
+                   <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
                 </div>
             </div>
         </div>
@@ -80,7 +80,7 @@ WW2<!doctype html>
                 <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
             <div class="btncon">
                 <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-                <a href="addto.html" class="btn btn-outline-success" id="cbtb"><span>Buy</span></a>
+                <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
             </div>
         </div>
         </div>
@@ -91,7 +91,7 @@ WW2<!doctype html>
             <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
         <div class="btncon">
             <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-            <a href="addto.html" class="btn btn-outline-success"id="cbtb"><span>Buy</span></a>
+            <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
         </div>
     </div>
         </div>
@@ -102,7 +102,7 @@ WW2<!doctype html>
                 <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
             <div class="btncon">
                 <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-                <a href="addto.html" class="btn btn-outline-success" id="cbtb"><span>Buy</span></a>
+                <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
             </div>
         </div>
         </div>
@@ -113,7 +113,7 @@ WW2<!doctype html>
             <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
         <div class="btncon">
             <a href="about.html" class="btn btn-info" id="cbt" ><span>Details</span></a>
-            <a href="addto.html" class="btn btn-outline-success" id="cbtb"><span>Buy</span></a>
+            <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
         </div>
     </div>
         </div>
@@ -124,7 +124,7 @@ WW2<!doctype html>
                 <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
             <div class="btncon">
                 <a href="about.html" class="btn btn-info"id="cbt"><span>Details</span></a>
-                <a href="addto.html" class="btn btn-outline-success" id="cbtb"><span>Buy</span></a>
+                <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
             </div>
         </div>
     </div>
@@ -135,7 +135,7 @@ WW2<!doctype html>
             <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
         <div class="btncon">
             <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-            <a href="addto.html" class="btn btn-outline-success"id="cbtb"><span>Buy</span></a>
+            <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
         </div>
     </div>
     </div>
@@ -146,7 +146,7 @@ WW2<!doctype html>
         <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
     <div class="btncon">
         <a href="about.html" class="btn btn-info"id="cbt"><span>Details</span></a>
-        <a href="addto.html" class="btn btn-outline-success" id="cbtb"><span>Buy</span></a>
+       <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
     </div>
 </div>
     </div>
@@ -157,7 +157,7 @@ WW2<!doctype html>
             <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
         <div class="btncon">
             <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-            <a href="addto.html" class="btn btn-outline-success"id="cbtb"><span>Buy</span></a>
+            <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
         </div>
     </div>
     </div>
@@ -167,9 +167,8 @@ WW2<!doctype html>
     <p class="card-title">Item Number 1</p>
         <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
     <div class="btncon">
-
         <a href="addto.html" class="btn btn-info" id="cbt"><span>Details</span></a>
-        <a href="addto.html" class="btn btn-outline-success " id="cbtb"><span>Buy</span></a>
+        <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
     </div>
 </div>
     </div>
