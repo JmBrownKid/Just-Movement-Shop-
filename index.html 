@@ -169,7 +169,7 @@
     <div class="btncon">
 
         <a href="addto.html" class="btn btn-info" id="cbtkd"><span>Details</span></a>
-        <a href="addto.html" class="btn btn-outline-success " id="cbtb"><span>Size</span></a>
+        <a href="addto.html" class="btn btn-outline-success " id="cbtb"><span>Buy</span></a>
     </div>
 </div>
     </div>
