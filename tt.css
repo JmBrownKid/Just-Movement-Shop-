@@ -59,7 +59,13 @@
 .card {
   width: 200px;
   height: 330px
-}#cbt,#cbtb {
+}
+.btncon {
+    
+    display:flex;
+    justify-content: space-between;
+}
+#cbt,#cbtb {
   width: 75PX;
 }
 @media only screen and (max-width:990px){
@@ -89,6 +95,9 @@
       width: 250px;
       height: 390px
     }
-    #cbt,#cbtb {
-      width: 100PX;
+    #cbt{
+        width:140px ;
+    }
+    #cbtb {
+      width: 60px;
 }}
