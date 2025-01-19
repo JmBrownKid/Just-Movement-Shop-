@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="tt.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>hello</title>
   <body>
@@ -60,116 +60,10 @@
             <span><i class="fa-solid fa-phone-volume"></i> 09788889337</span>
             <span></span>
           </div>
-            <div class="content">
+            <div class="content"
+            id="card-container">
               <div class="kh"></div>
-              <div class="card">
-                <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2024/03/l24mdcnr-front.jpg" alt="Card image cap">
-            <div class="card-body">
-                <p class="card-title">Item Number 1</p>
-                    <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-                <div class="btncon">
-                    <a href="about.html" class="btn btn-info"  id="cbt" ><span>Details</span></a>
-                   <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2024/03/l24wtdhg-back.jpg" >
-        <div class="card-body">
-            <p class="card-title">Item Number 1</p>
-                <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-            <div class="btncon">
-                <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-                <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-            </div>
-        </div>
-        </div>
-        <div class="card">
-        <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2022/05/front-2.jpg" alt="Card image cap">
-    <div class="card-body">
-        <p class="card-title">Item Number 1</p>
-            <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-        <div class="btncon">
-            <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-            <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-        </div>
-    </div>
-        </div>
-        <div class="card">
-            <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2024/03/l24wuibg-back.jpg" alt="Card image cap">
-        <div class="card-body">
-            <p class="card-title">Item Number 1</p>
-                <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-            <div class="btncon">
-                <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-                <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-            </div>
-        </div>
-        </div>
-        <div class="card">
-        <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2021/01/1-mens-oliver-ridley-project-front.jpg" alt="Card image cap">
-    <div class="card-body">
-        <p class="card-title">Item Number 1</p>
-            <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-        <div class="btncon">
-            <a href="about.html" class="btn btn-info" id="cbt" ><span>Details</span></a>
-            <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-        </div>
-    </div>
-        </div>
-        <div class="card">
-            <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2021/01/1-mens-olive-ridley-project-blue-front.jpg" alt="Card image cap">
-        <div class="card-body">
-            <p class="card-title">Item Number 1</p>
-                <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-            <div class="btncon">
-                <a href="about.html" class="btn btn-info"id="cbt"><span>Details</span></a>
-                <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-            </div>
-        </div>
-    </div>
-    <div class="card">
-        <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2024/03/l24mhodsdhg-front-a.jpg" alt="Card image cap">
-    <div class="card-body">
-        <p class="card-title">Item Number 1</p>
-            <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-        <div class="btncon">
-            <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-            <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-        </div>
-    </div>
-    </div>
-    <div class="card">
-    <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2024/06/womens-windbreaker-jacket-front.jpg" alt="Card image cap">
-<div class="card-body">
-    <p class="card-title">Item Number 1</p>
-        <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-    <div class="btncon">
-        <a href="about.html" class="btn btn-info"id="cbt"><span>Details</span></a>
-       <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-    </div>
-</div>
-    </div>
-    <div class="card">
-        <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2024/06/womens-Atlantic-jacket-1.jpg" alt="Card image cap">
-    <div class="card-body">
-        <p class="card-title">Item Number 1</p>
-            <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-        <div class="btncon">
-            <a href="about.html" class="btn btn-info"id="cbt" ><span>Details</span></a>
-            <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-        </div>
-    </div>
-    </div>
-    <div class="card">
-    <img class="card-img-top" tyle="width: 200px; height200px" src="https://fourthelement.com/wp-content/uploads/2024/06/orange-expedition-drybag-24-600x600.jpg" alt="Card image cap">
-<div class="card-body">
-    <p class="card-title">Item Number 1</p>
-        <span><i class="fa-solid fa-dollar-sign"></i> 15000MMK</span><br>
-    <div class="btncon">
-        <a href="addto.html" class="btn btn-info" id="cbt"><span>Details</span></a>
-        <a href="addto.html" class="btn btn-outline-success " id="cbtb"><i class="fa-solid fa-cart-shopping"></i></a>
-    </div>
+              
 </div>
     </div>
     
@@ -188,5 +82,6 @@
       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="script.js" defer></script>
   </body>
 </html>
